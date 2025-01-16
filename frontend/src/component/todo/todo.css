@@ -1,0 +1,17 @@
+.todo{
+    width:100%;
+    min-height:100vh;
+    max-height: auto;
+    position: relative;
+}
+
+.todoUpdate{
+    position:absolute;
+    position: fixed;
+    background: #eeebeb;
+    top: 100px;
+    left: 50px;
+    right:50px;
+    bottom:auto;
+    display: none;
+}
